@@ -10,6 +10,7 @@ python = ">=3.10,<4.0"
 numpy = "^2.2.3"
 pandas = "^2.2.3"
 datetime = "^5.5"
+black = "^25.1.0"
 
 
 [build-system]
