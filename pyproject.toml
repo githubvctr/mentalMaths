@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mentalmaths"
+version = "0.1.0"
+description = ""
+authors = ["githubvctr"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+numpy = "^2.2.3"
+pandas = "^2.2.3"
+datetime = "^5.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
