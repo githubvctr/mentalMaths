@@ -1,0 +1,6 @@
+# Configuration file for Mental Maths app
+
+section_question_counts:
+  Section 1: 30
+  Section 2: 10
+  Section 3: 10
